@@ -10,6 +10,6 @@ i = 2;
 
 while (i <= number)
 {
-    Console.WriteLine($"{i}, ");
+    Console.WriteLine($"{i} ");
     i = i + 2;
 }
